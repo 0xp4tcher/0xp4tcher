@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **0xp4tcher/0xp4tcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi there 👋
+
+### I'm 0xp4tcher
+
+:computer: I'm a Cyber Threat Analyst.
+
+:books: I'm currently learning all about IT and Security.
+
+Hacking is NOT a Crime Advocate
+
+<img src="https://media.giphy.com/media/l2SpLKaWuk8YjTw2c/giphy.gif" width="300" alt="Hacker GIF">
+
+## Social Networks
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/0xp4tcher)](https://github.com/0xp4tcher)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sashwin-0xp4tcher/)](https://www.linkedin.com/in/sashwin-0xp4tcher/)
+
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://x.com/0xp4tcher)](https://x.com/0xp4tcher)
+
