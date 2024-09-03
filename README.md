@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 :books: I'm currently learning all about IT and Security.
 
-Hacking is NOT a Crime Advocate
-
 <img src="https://media.giphy.com/media/l2SpLKaWuk8YjTw2c/giphy.gif" width="300" alt="Hacker GIF">
 
 ## Social Networks
