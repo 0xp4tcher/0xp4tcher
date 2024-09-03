@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 [![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)]([https://x.com/0xp4tcher))
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/sashwin-0xp4tcher)[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/0xp4tcher/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/sashwin-0xp4tcher)[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/0xp4tcher/)[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)]([https://x.com/0xp4tcher))
