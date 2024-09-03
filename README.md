@@ -23,6 +23,5 @@ Here are some ideas to get you started:
 
 <img src="https://media.giphy.com/media/l2SpLKaWuk8YjTw2c/giphy.gif" width="300" alt="Hacker GIF">
 
-[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)]([https://x.com/0xp4tcher))
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/sashwin-0xp4tcher)[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/0xp4tcher/)[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)]([https://x.com/0xp4tcher))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/sashwin-0xp4tcher)[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/0xp4tcher/)[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/@eldersoares52)
