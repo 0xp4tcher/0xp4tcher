@@ -21,7 +21,4 @@ Here are some ideas to get you started:
 
 :books: I'm currently learning all about IT and Security.
 
-<img src="https://media.giphy.com/media/l2SpLKaWuk8YjTw2c/giphy.gif" width="300" alt="Hacker GIF">
-
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/sashwin-0x)[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://x.com/0xp4tcher)[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://discordapp.com/users/1044956222358556762)
